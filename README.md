@@ -55,7 +55,8 @@ void loop() {
 }
 ```
 ### Esquemático
-![Implementación para el ejemplo básico](./Img/ArdUno_433Mhz.jpg)
+*Implementación para el ejemplo básico*
+![](./Img/ArdUno_433Mhz.jpg)
 
 ### Licencia
 
