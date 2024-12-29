@@ -1,0 +1,5 @@
+ReceptorRF	KEYWORD1
+configurarRX	KEYWORD2
+obtenerCodigo	KEYWORD2
+deshabilitarRX	KEYWORD2
+habilitarRX	KEYWORD2
