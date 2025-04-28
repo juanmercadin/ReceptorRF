@@ -2,7 +2,7 @@
 
 ### Descripción
 
-Librería para poder recibir códigos de controles remotos RF o IR de tipo código fijo de 12, 24 u otra cantidad de bits. Por defecto la cantidad de bits esta establecida en 24 bits.
+Librería para poder recibir códigos de controles remotos RF de tipo código fijo de 12, 24 u otra cantidad de bits. Por defecto la cantidad de bits esta establecida en 24 bits.
 
 ### Conexiones
 
